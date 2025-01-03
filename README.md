@@ -1,4 +1,4 @@
-# Chall - Your Challenge Title
+# Misoperate
 
 > An x86-64 assembly correction puzzle
 
