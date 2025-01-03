@@ -1,6 +1,6 @@
 # Chall - Your Challenge Title
 
-> A brief description of the challenge
+> An x86-64 assembly correction puzzle
 
 ## Type
 
@@ -9,8 +9,7 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- William Charron-Boyle
 
 ## Description
 
