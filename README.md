@@ -7,7 +7,7 @@
 - [X] **OFF**line
 - [ ] **ON**line
 
-## Designer(s)
+## Designer
 
 - William Charron-Boyle
 
@@ -18,7 +18,7 @@ goals and the skills it aims to test in participants.
 
 **IMPORTANT:** This description will **NOT** be shared with participants.
 
-## Category(ies)
+## Category
 
 - `re`
 
