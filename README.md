@@ -20,18 +20,7 @@ goals and the skills it aims to test in participants.
 
 ## Category(ies)
 
-- `pwn`
 - `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
 
 ---
 
