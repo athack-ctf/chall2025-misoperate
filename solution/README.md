@@ -1,3 +1,3 @@
 # How to Solve the Challenge?
 
-Ghidra is a useful tool to solve this challenge. 
+Ghidra is a useful tool to solve this challenge. Extracting the assembly instruction sequence the artifact with this tool reveals one suspicious element. This element is an eight-bit multiplication. The executable multiplies factors such that the resulting product cannot an eight-bit value. This size mismatch may direct participants to modify the suspicious instruction. Such a modification could directly substitute the problematic instruction with the corresponding thirty-two-bit variant. This change would make the executable not overflow bits for the products it calculates. As such, it can print the resulting products in ASCII form. This behaviour would cause the flag to appear, thus solving the challenge.

@@ -20,5 +20,3 @@ A Linux ABI-conforming executable seemingly printing the ASCII representation of
 ## Category
 
 - `re`
-
----
