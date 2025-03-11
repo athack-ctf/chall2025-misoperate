@@ -1,0 +1,23 @@
+name: "Misoperate"
+author: "William"
+category: RE
+description: |
+    It's multiplying..? Does Duncan know his multiplication tables?
+
+value: 200
+
+type: standard
+
+flags:
+  - type: "static"
+    content: "ATHACKCTF{r3g1st3rMag1st3rL3g1slat0r}"
+    data: "case_insensitive"
+
+tags:
+
+files:
+    - ./offline-artifacts/HACKME
+
+state: visible
+
+version: "0.1"
