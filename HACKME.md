@@ -1,1 +1,0 @@
-It's multiplying..? Does Duncan know his multiplication tables?

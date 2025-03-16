@@ -1,22 +1,41 @@
-# Misoperate
+# @HACK 2025: Misoperate
 
-> An x86-64 assembly correction puzzle
+> Authored by [William Charron-Boyle](https://github.com/jws412).
 
-## Type
+- **Category**: `RE`
+- **Value**: `200 points`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> It's multiplying..? Does Duncan know his multiplication tables?
+> 
 
-## Designer
+## Files
+- **[Download: HACKME](https://github.com/athack-ctf/chall2025-misoperate/raw/refs/heads/main/offline-artifacts/HACKME)**
 
-- William Charron-Boyle
+## Reveal Flag
 
-## Description
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-A Linux ABI-conforming executable seemingly printing the ASCII representation of a sequence of products. However, the executable uses eight-bit multiplication instead of its thirty-two-bit equivalent. The former operation causes integer overflows for the factors that the exectuble multiplies. Participants must increase the operand size of this operation to at least thirty-two-bits. This modification will cause the executable print out the flag when ran.
+Did you **REALLY** try solving this challenge?
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-## Category
+Flag: `ATHACKCTF{r3g1st3rMag1st3rL3g1slat0r}`
 
-- `re`
+</details>
+</details>
+
+
+---
+
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
+
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
